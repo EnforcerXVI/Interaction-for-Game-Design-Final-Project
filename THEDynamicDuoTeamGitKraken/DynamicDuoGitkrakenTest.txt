@@ -14,3 +14,4 @@ some whatever file, type CTRL + P for the command prompt then add a file. You ca
 the folder (what we call the repository).
 
 After pressing CTRL + S. you'll be able to stage (save the changes). 
+dad was here
