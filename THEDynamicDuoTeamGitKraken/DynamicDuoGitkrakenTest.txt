@@ -1,4 +1,16 @@
+VERY IMPORTANT, READ THIS!
 Test test, Alex here.
 
 
 Now the file is in github, remember to stage changes once they are made.
+
+Alright, so github/kraken is confusing as well.. The folder where all these files are is the repository, changes made to it get reflected here. So if you place a notepad in the repository (folder)
+then you'll be able to find those changes on github. You need to click on the thing saying WIP and make a comment or whatever detailing the changes.
+On the right, you'll be able to stage changes with a button saying stage changes. It means save changes, it is annoying but think of it as the save button. Then at the bottom right
+make sure to click committ changes. Now everyone will be able to have access to these changes. Yay.
+
+If you are reading this on GitKraken, you may wonder how to leave this file, don't worry I did too. CTRL + S will save your stuff. Make sure to stage changes. If you want to add
+some whatever file, type CTRL + P for the command prompt then add a file. You cannot upload a notepad or project file like this however. To upload a file, just place said file into
+the folder (what we call the repository).
+
+After pressing CTRL + S. you'll be able to stage (save the changes). 
